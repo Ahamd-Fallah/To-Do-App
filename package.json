@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Ahamd-Fallah/To-Do-App",
+  "homepage": "https://github.io/Ahamd-Fallah/To-Do-App",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
